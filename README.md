@@ -31,6 +31,9 @@ The architecture of the AI Sentiment Stock Market Trader consists of the followi
 
 - **Backtesting Layer**: Backtests strategies using historical market data from Yahoo Finance to evaluate performance before live trading.
 
+
+![diagram-export-9-30-2024-7_56_33-PM](https://github.com/user-attachments/assets/2d03325f-891e-4a48-ae69-d7adaec90c41)
+
 ## Model Highlights
 - **Increased Profitability**: Backtesting results demonstrate a cumulative return of 234% over four years, with an average of 1% profit per trade.
 - **Adaptability**: The SARSA model adjusts to changing market conditions, utilizing both market data and sentiment analysis for more efficient trading.
