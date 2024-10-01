@@ -1,8 +1,9 @@
 # AI Sentiment Stock Market Trader
 
 ### Developed by:
-- **Ndubuisi Godcares Chibuokem** (21070126124)
 - **Najeeb Saiyed** (21070126057)
+- **Ndubuisi Godcares Chibuokem** (21070126124)
+
 
 ## Project Overview
 The **AI Sentiment Stock Market Trader** is an AI-powered trading bot that automates stock market trades by combining reinforcement learning with sentiment analysis. The bot utilizes real-time market data and sentiment analysis of news articles to make dynamic trading decisions aimed at maximizing returns while managing risk.
