@@ -1,4 +1,6 @@
-# AI Sentiment Stock Market Trader
+# TradeBotX: Harnessing AI and Sentiment for Smarter, Faster Trading
+
+
 
 ### Developed by:
 - **Najeeb Saiyed** (21070126057)
